@@ -1,7 +1,7 @@
 # FTEC4003-DataMining
 
 Members: 
-- NGGUYEN Ba Minh (1155184240)
+- NGUYEN Ba Minh (1155184240)
 - TAN Ashley Jeyin (1155190534)
 - MOK Kwan Yat Nigel (1155193052)
 
